@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "discgolfproscraper",
+  "private_key_id": "b3cb7d11da63cc23750903bd4edcf1c4d69fb2ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZ6qKhMrsOKVpi\nfU66zoH7JNlg+vbBgKqks7YVzaqyXVT0oVkFyqC6J9XABnk8r6JZ/eJx0EGiOSZR\nl9c91okqC8Ul8W//+HmKVfg2zWf7alOt1k6iPDKWMI5W0djwpJ1kH3W5W0JkpMat\n7eaKR+xASqGOOKcPC0Mu778616015+6JaLz8WZWb9Iu4SqAACry2/2BRBE9iypHq\nQgyFfug9p+vF3TZGyeL8liLtqxxYugNJDt+kITAWcGlbAJrNrjx2xof2L+RJxwnO\nuUWuT1jt9FKmC8JfpJNLA3/ysDK0qY1rePyjQr0cCr0jrpddLg4xEcbl94R+BYwY\nWgKA3DsdAgMBAAECggEABdxc3/V+EO57LhfmaQ+W/HitPFeiEME0/juHmfHwZ4VN\nSFlieel60EvXBE5azHhFntafikTrUuGJN38oJ4clRvAWzDiS0rTj7+QRJQkSRg0I\n7awk52GSbYygxuaLs7IY+iiGg43Zi9qIZDQUXLybXuFYoIFAvz5nCwD/D58Jze0d\nVp03LZPWKDpYbRbv78oSJOLBqeoi4Hz2kxWIPIJWyfNCxlRzuxh7NlRxso4xN+fr\nuZS0KcRsFC3p/niCUqHubG896Bc7VG0dS6Smn8TTmip+QaRr+I/u+QGc2x0PduaD\nAqaxHr6A1+cfgKsf03LtEs3h05+BDGnpcQkIABskoQKBgQDHdndoSN18JhRh+20W\nBAdo+RRESUk8dWjFg8yzrC1IKHt1vCw0XqrFouz7cA7SOXzK8sZiydJINUBEbmYL\nl46204HAyE0QdQ5VYcn1PLgFtMQFHYtR61vysEQsNlHIevRASTHGq0IRRoYPFkWT\nXAqn3kRlr8jMJa5wWeQQj41jkQKBgQDFize5qmeO9u1HL6vvxsVST2TFEnir+Idj\nqAziDTgNGbvM0K6xbJZ92bi+i+6wLwXcupEk1o4dHFQvWTB072qOk45mGZyDitCi\ntAgPnlK1jTIbJna7wMU2fKFIr0w/3KqXIcu47LSloycUwtFyiCpFRH8K/RyLhiX8\nNGJzSauAzQKBgDHgidNmBRx6WTZ3LLwIneG+BzdcLBgWM/DQGGwFbf1RQi4as+MU\nmRd6uk/VoZ8oCPCm7LzfQtoTltKF2LalW2aUVSnj7IFlBASNw3azjEDBBxNQY/pE\nJGX3ddSocKL1PAanRu8q/AZd4D/9jcBfj7qSdgAHiOqjsY8eq00I2I5BAoGBAI7c\nDnG8FWZjltdLV3lw81SCTCrlH9WmRys/5gk4bBe1S4ZkSGHRWMgswxkyE2zgpMmr\nNrpAW8gbq5oOUyfN2O7BMVMPJIxQwG9Z6RZ6dfAL63eNCoLfdv/fg7gP5gGtMMVZ\nUH4s2LuM0P+HoHbGmGM9lO66e4E/g4rvy176oQflAoGAOUqu1TxqVW8QqEbe2cx0\nCK7hqv9lxc78Big1HMU3ywtNCupYJ8GzYxIeQRqyhWNqrOILNElBNQlkUgC5aEL0\nmu+vYgxqfWonn5QedVNQu+WYsrtgDC8S0MxMeMw1/iqZgr/YehXM5WT1PyfaeMx6\nqnHFuR9TPvPJLEBvHBfdZVQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "discgolfaccount@discgolfproscraper.iam.gserviceaccount.com",
+  "client_id": "102437859827487971987",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discgolfaccount%40discgolfproscraper.iam.gserviceaccount.com"
+}
